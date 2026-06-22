@@ -1,2 +1,12 @@
-# DataAnalysisRoad
-My journey from Data Analyst to Risk Strategy Analyst
+# 数据分析与风控项目集
+
+本仓库用于展示数据分析与信贷风控项目，重点关注数据质量、风险识别、客群分层和策略评估。
+
+## 项目
+
+### 信贷逾期风险分析
+
+基于 Give Me Some Credit 公开数据，围绕未来两年严重逾期风险开展数据质量审计、客群风险分析、规则分层与准入策略模拟。
+
+项目路径：`Projects/01_Credit_Risk_Analysis`
+
